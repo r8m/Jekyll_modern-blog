@@ -10,8 +10,8 @@ date:   2017-09-28 12:12:12
 ### Семейная фотосессия
 Порадуйте своих родных и близких по поводу и без повода.
 
-![c](./img/c.jpg){:width="500px"}
+![c](./img/c.jpg){:.post-image}
 
-![c](./img/d.jpg){:width="500px"}
+![c](./img/d.jpg){:.post-image}
 
-![c](./img/b.jpg){:width="500px"}
+![c](./img/b.jpg){:.post-image}
