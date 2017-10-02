@@ -361,5 +361,5 @@ a:focus {
 {
     margin: 0 auto;
     display: block;
-		width: 1000px;
+		min-width: 500px;
 }
