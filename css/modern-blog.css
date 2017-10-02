@@ -103,7 +103,8 @@
 
 .card__copy {
 	font-size: 1.25em;
-	max-width: 900px;
+	/*max-width: 900px;*/
+	width: 80%;
 	margin: 0 auto;
 	padding: 25px 30px 100px;
 	color: #3b393d;
