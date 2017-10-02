@@ -363,6 +363,6 @@ a:focus {
 {
     margin: 0 auto;
     display: block;
-		opacity: 0;
+		opacity: 1;
 		min-width: 500px;
 }
