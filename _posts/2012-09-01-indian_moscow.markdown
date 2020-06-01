@@ -3,7 +3,7 @@ title:  "Индийская Москва"
 subtitle: "фотопрогулка в сари по Москве"
 author: "Anna Lookerina"
 avatar: "img/authors/lookerina.png"
-image: "/img/India/IMG_5658.jpg"
+image: "/img/India/1.jpg"
 date:   2012-09-01 12:12:12
 ---
 ![c](./img/India/1.jpg){:.post-image}
