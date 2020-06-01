@@ -6,21 +6,21 @@ avatar: "img/authors/lookerina.png"
 image: "/img/India/IMG_5658.jpg"
 date:   2012-09-01 12:12:12
 ---
-![c](./img/India/IMG_5658.jpg){:.post-image}
+![c](./img/India/1.jpg){:.post-image}
 
-![c](./img/India/8_IMG_5429_1.jpg){:.post-image}
+![c](./img/India/2.jpg){:.post-image}
 
-![c](./img/India/27_IMG_5651.jpg){:.post-image}
+![c](./img/India/3.jpg){:.post-image}
 
-![c](./img/India/IMG_5763.jpg){:.post-image}
+![c](./img/India/4.jpg){:.post-image}
 
-![c](./img/India/2_IMG_5325.jpg){:.post-image}
+![c](./img/India/5.jpg){:.post-image}
 
-![c](./img/India/23_IMG_5588 copy.jpg){:.post-image}
+![c](./img/India/6.jpg){:.post-image}
 
-![c](./img/India/20_IMG_5490.jpg){:.post-image}
+![c](./img/India/7.jpg){:.post-image}
 
-![c](./img/India/IMG_5808.jpg){:.post-image}
+![c](./img/India/8.jpg){:.post-image}
 
 # СТОИМОСТЬ ФОТОСЕССИИ
 
