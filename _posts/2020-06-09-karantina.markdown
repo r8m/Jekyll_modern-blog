@@ -1,12 +1,12 @@
 ---
-title:  "Прекрасная Карантина в сирени"
+title:  "Прекрасная Карантина"
 subtitle: "фотосъемка в цветущей сирени"
 author: "Anna Lookerina"
 avatar: "img/authors/lookerina.png"
-image: "/img/lilac/1.jpg"
+image: "/img/lilac/5.jpg"
 date:   2020-06-01 12:12:12
 ---
-![c](./img/lilac/1.jpg){:.post-image}
+![c](./img/lilac/5.jpg){:.post-image}
 
 ![c](./img/lilac/2.jpg){:.post-image}
 
@@ -14,7 +14,7 @@ date:   2020-06-01 12:12:12
 
 ![c](./img/lilac/4.jpg){:.post-image}
 
-![c](./img/lilac/5.jpg){:.post-image}
+![c](./img/lilac/1.jpg){:.post-image}
 
 ![c](./img/lilac/6.jpg){:.post-image}
 
