@@ -70,24 +70,21 @@ layout: compress
                         </div>
 						
 						<!-- modify this form HTML and place wherever you want your form -->
-
-						<form
-						  action="https://formspree.io/mbjzydba"
-						  method="POST"
-						>
-						  <label>
-							Your email:
-							<input type="text" name="_replyto">
-						  </label>
-						  <label>
-							Your message:
-							<textarea name="message"></textarea>
-						  </label>
-
-						  <!-- your other form fields go here -->
-
-						  <button type="submit">Send</button>
-						</form>
+						<div>
+							<!-- modify this form HTML and place wherever you want your form -->
+							<form
+							  action="https://formspree.io/mbjzydba"
+							  method="POST"
+							>
+										<label for="fs-name">Your Name</label>
+										<input id="fs-name" name="name" type="name" disabled="">
+										<label for="fs-email">Your Email</label>
+										<input id="fs-email" name="email" type="email" disabled="">
+										<label for="fs-msg">Message</label>
+										<textarea id="fs-msg" name="message" disabled="" style="margin: 0px -2px 0px 0px; width: 334px; height: 61px;"></textarea>
+							 </form>    
+        
+						</div>
 						
                     </div>
                 </div>
