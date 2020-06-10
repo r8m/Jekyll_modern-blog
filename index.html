@@ -70,21 +70,26 @@ layout: compress
                         </div>
 						
 						<!-- modify this form HTML and place wherever you want your form -->
-						<div>
+						<div class="card__content">
+							<div class="card__caption">
+								<p class="card__subtitle">Оставить заявку на съемку</p>
+							</div>
 							<!-- modify this form HTML and place wherever you want your form -->
-							<form
-							  action="https://formspree.io/mbjzydba"
-							  method="POST"
-							>
-										<label for="fs-name">Your Name</label>
-										<input id="fs-name" name="name" type="name" disabled="">
-										<label for="fs-email">Your Email</label>
-										<input id="fs-email" name="email" type="email" disabled="">
-										<label for="fs-msg">Message</label>
-										<textarea id="fs-msg" name="message" disabled="" style="margin: 0px -2px 0px 0px; width: 334px; height: 61px;"></textarea>
-										<button type="submit">Send</button>
-							 </form>    
-        
+                           <div class="card__copy">
+								<form
+								  action="https://formspree.io/mbjzydba"
+								  method="POST"
+								>
+											<label for="fs-name">Ваше Имя</label>
+											<input id="fs-name" name="name" type="name" disabled="">
+											<label for="fs-email">Ваш Email</label>
+											<input id="fs-email" name="email" type="email" disabled="">
+											<label for="fs-msg">Текст сообщения</label>
+											<textarea id="fs-msg" name="message" disabled="" style="margin: 0px -2px 0px 0px; width: 334px; height: 61px;"></textarea>
+											<button type="submit">Отправить</button>
+								 </form>    
+			
+							</div>
 						</div>
 						
                     </div>
