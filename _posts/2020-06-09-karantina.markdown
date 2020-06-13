@@ -31,4 +31,4 @@ driveId: 1SKEbr3ARKZFZnoVDwN-G25ZroXJsnmA0/preview
 
 ![c](./img/lilac/prices.jpg){:.post-image}
 
-{% include googleDrivePlayer.html id=page.driveId %}
+{% include googleDrivePlayer.html id=1SKEbr3ARKZFZnoVDwN-G25ZroXJsnmA0/preview %}
