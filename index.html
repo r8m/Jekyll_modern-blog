@@ -68,7 +68,17 @@ layout: compress
                             </div>
                             {{ post.content }}
 							
-                            {% include googleDrivePlayer.html id=1SKEbr3ARKZFZnoVDwN-G25ZroXJsnmA0/preview %}
+							
+							<div class="embed-container">
+								  <iframe
+									  width="480"
+									  height="640"
+									  src="https://drive.google.com/file/d/{{ post.videoId }}"
+									  frameborder="0"
+									  allowfullscreen="">
+								  </iframe>
+							</div
+							
                         </div>
 						
 						<div class="card__content">  
