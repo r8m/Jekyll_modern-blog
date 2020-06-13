@@ -69,9 +69,20 @@ layout: compress
                             {{ post.content }}
 
                         </div>
-							
+
+
+<div class="embed-container">
+  <iframe
+      width="480"
+      height="640"
+      src="https://drive.google.com/file/d/{{ post.videoId }}"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>						
 												
-							<div class="card__content">  
+							<div class="card__content">
+							
 							<!-- modify this form HTML and place wherever you want your form --> 
 							<div class="card__copy"> <form action="					https://formspree.io/mbjzydba" method="POST"> 
 							<p class="card__subtitle">Оставить заявку на съемку</p>
