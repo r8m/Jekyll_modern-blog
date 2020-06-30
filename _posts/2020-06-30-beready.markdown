@@ -3,7 +3,7 @@ title:  "Подготовка к фотосессии"
 subtitle: "Правильно подобранная одежда поднимает настроение"
 author: "Anna Lookerina"
 avatar: "img/authors/lookerina.png"
-image: "/img/beready/1.jpg"
+image: "/img/beready/0.jpg"
 date:   2020-06-30 12:12:12
 ---
 
