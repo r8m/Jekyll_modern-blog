@@ -28,5 +28,3 @@ videoId: "428800202"
 ![c](./img/lilac/10.jpg){:.post-image}
 
 ![c](./img/lilac/11.jpg){:.post-image}
-
-![c](./img/lilac/prices.jpg){:.post-image}
