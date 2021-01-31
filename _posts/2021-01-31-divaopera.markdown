@@ -3,7 +3,7 @@ title:  "Оперная дива"
 subtitle: "студийная съемка для актерского портфолио"
 author: "Anna Lookerina"
 avatar: "img/authors/lookerina.png"
-image: "/img/DivaOpera/1.jpg"
+image: "/img/DivaOpera/9.jpg"
 date:   2021-01-01 12:12:12
 videoId: "506812770"
 ---
