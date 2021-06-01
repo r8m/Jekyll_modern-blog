@@ -5,7 +5,7 @@ author: "Anna Lookerina"
 avatar: "img/authors/lookerina.png"
 image: "/img/lupiny_more/000.jpg"
 date:   2021-06-01 12:12:12
-videoId: "506812770"
+videoId: ""
 ---
 ![c](./img/lupiny_more/1.jpg){:.post-image}
 
