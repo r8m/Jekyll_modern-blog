@@ -1,0 +1,43 @@
+---
+title:  "Балетная фотосессия"
+subtitle: "Студийная съемка"
+author: "Anna Lookerina"
+avatar: "img/authors/lookerina.png"
+image: "/img/balet/1.jpg"
+date:   2021-06-30 12:12:12
+
+---
+![c](./img/balet/1.jpg){:.post-image}
+
+![c](./img/balet/2.jpg){:.post-image}
+
+![c](./img/balet/3.jpg){:.post-image}
+
+![c](./img/balet/4.jpg){:.post-image}
+
+![c](./img/balet/5.jpg){:.post-image}
+
+![c](./img/balet/6.jpg){:.post-image}
+
+![c](./img/balet/7.jpg){:.post-image}
+
+![c](./img/balet/8.jpg){:.post-image}
+
+![c](./img/balet/9.jpg){:.post-image}
+
+![c](./img/balet/10.jpg){:.post-image}
+
+![c](./img/balet/11.jpg){:.post-image}
+
+![c](./img/balet/12.jpg){:.post-image}
+
+![c](./img/balet/14.jpg){:.post-image}
+
+![c](./img/balet/15.jpg){:.post-image}
+
+![c](./img/balet/16.jpg){:.post-image}
+
+![c](./img/balet/17.jpg){:.post-image}
+
+![c](./img/balet/18.jpg){:.post-image}
+
